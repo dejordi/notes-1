@@ -32,3 +32,6 @@ przewodnik | uczestnik wycieczki
 zna piękno przyrody, nie widzi w niej nic nazwyczajnego | orientalna przyroda zadziwia go swoim pięknem
 nie budzi zachwytu | budzi zachwyt
 widzi rzeczy dla niego normalne, zwyczajne | ekscytuje się widokiem
+nie używa orientalizmu | orientalizmy w wypowiedzi
+zdania oznajmujące | ekspresywna wypowiedź (3 wykrzyknienia, 5 pytań)
+styl wypowiedzi obrazowy, przyroda pokazywana przez personifikacje i animizacje | styl wypowiedzi obrazowy, zbudowany przez metafory, hirpebolizuje
