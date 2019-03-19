@@ -15,4 +15,4 @@ Adam Mickiewicz - Burza - Sonety Krymskie - środki stylistyczne:
 * anafora:
 
 ## Lekcja
-Instrumentacja głoskowa - *Zdarto żagle, ster prysnął*
+Instrumentacja głoskowa - *"Zdarto żagle, ster prysnął"*
