@@ -1,3 +1,3 @@
-# Dział
-## Protokoły Warstwy Transportowej
-### TCP
+# Protokoły Warstwy Transportowej
+## TCP
+* Sockets
