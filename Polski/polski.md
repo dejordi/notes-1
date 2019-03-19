@@ -19,7 +19,7 @@
 - **Pole semantyczne (znaczeniowe)** - ma związek z bitwą, walką, wojną np. *żołnierz*, *krwawo*.
 - **Bohater romantyczny** - samotny, zabłąkany, zagubiony, wyalienowany, wyobcowany, indywidualista.
 
-## Temat: Co znaczy "Aa!!"? - rozważania na temat "Widoku gór ze stepów Kozłowa" A. Mickiewicza
+## Temat: Co znaczy "Aa!!"? - rozważania na temat ["Widoku gór ze stepów Kozłowa" A. Mickiewicza](https://literat.ug.edu.pl/amwiersz/0035.htm)
 ### Nowości wprowadzone przez Mickiewicza do sonetów
 - orientalizmy
 - kolokwializmy
