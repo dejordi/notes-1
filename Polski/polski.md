@@ -20,3 +20,12 @@
 - **Bohater romantyczny** - samotny, zabłąkany, zagubiony, wyalienowany, wyobcowany, indywidualista.
 
 ## Temat: Co znaczy "Aa!!"? - rozważania na temat "Widoku gór ze stepów Kozłowa" A. Mickiewicza
+### Nowości wprowadzone przez Mickiewicza do sonetów
+- orientalizmy
+- kolokwializmy
+- synkretyzm rodzajowy
+- dwóch bohaterów lirycznych: Mirza i Pielgrzym
+### Jak patrzy na świat Mirza a jak Pielgrzym?
+| Mirza           | Pielgrzym           |
+| --------------- | ------------------- |
+| przewodnik      | uczestnik wycieczki |
