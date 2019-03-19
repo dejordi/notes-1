@@ -29,3 +29,4 @@
 Mirza | Pielgrzym
 --- | ---
 przewodnik | uczestnik wycieczki
+sample | sample
