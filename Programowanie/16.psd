@@ -1,0 +1,64 @@
+16.1
+function Rows(T)
+   c := 1
+   while T[c][0] != nil
+      c := c + 1
+   return c - 1
+
+16.2
+function Columns(T)
+   c := 1
+   while(T[0][c] != nil)
+      c := c + 1
+   return c - 1
+
+16.3
+procedure Unit(T)
+   a := 1
+   b := 1
+   while T[a][b] != nil
+      while T[a][b] != nil
+         T[a][b] := 0
+         b := b + 1
+      b := 1
+      a := a + 1
+
+   for i := 1 to a
+      T[i][i] := 1
+
+16.4
+function Diagonal(T)
+   sum := T[1][1]
+   a := 2
+   while T[a][a] != nil
+      sum := sum + T[a][a]
+   return sum
+
+* Tam gdzie gwiazdki to przekątna
+[*][ ][ ][ ][ ][ ]
+[ ][*][ ][ ][ ][ ]
+[ ][ ][*][ ][ ][ ]
+
+16.5
+procedure Lower(T)
+   a := 1
+   while T[a][a] != nil
+      k := a - 1
+      while k > 0
+         T[a][k]
+         k := k - 1
+      a := a + 1
+
+16.6
+procedure Min2D(T)
+   minimum := T[1][1]
+   a := 1
+   b := 1
+   while T[a][b] != nil
+      while T[a][b] != nil
+         if T[a][b] < minimum
+            minimum  := T[a][b]
+         b := b + 1
+      b := 1
+      a := a + 1
+   return minimum
