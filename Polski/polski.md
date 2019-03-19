@@ -29,3 +29,5 @@
 Mirza | Pielgrzym
 --- | ---
 przewodnik | uczestnik wycieczki
+zna piękno przyrody | orientalna przyroda zadziwia go swoim pięknem
+nie budzi zachwytu | budzi zachwyt
