@@ -1,0 +1,60 @@
+15.1
+function Min(T, n)
+   minimum := T[1]
+      for i := 2 to n
+         if T[i] < minimum
+            minimum = T[i]
+   return minimum
+
+15.2
+function MinP(T, k, l)
+   minimum := T[k]
+   for i := k + 1 to l
+      if T[i] < minimum
+         minimum = T[i]
+   return minimum
+
+15.3
+function MinI(T, k, l)
+   minimum := T[k]
+   index := k
+   for i := k + 1 to l
+      if T[i] < minimum
+         minimum = T[i]
+         index = i
+   return index
+
+15.4
+procedure Swap(T, k, l)
+   temp = T[k]
+   T[k] = T[l]
+   T[l] = temp
+
+** Aktualnie można to zrobić jakimiś bramkami logicznymi,
+wpiszczcie sobie w internet to znajdziecie obrazek, jak przeanalizujecie
+to zobaczycie, że ma sens
+
+15.5
+function Counter(T, n)
+   for i := 1 to n
+      H[T[i]] = 1
+
+   sum := 0
+   for i := 1 to n
+      sum := sum + H[i]
+
+   return sum
+
+15.6
+function CounterExtended(T, n)
+   count := 0
+   for i := 1 to n
+      toAdd := 1
+      for j := 1 to count
+         if T[i] = H[j]
+            toAdd := 0
+            break
+      if toAdd = 1
+         count := count + 1
+         H[count] := T[i]
+   return count
