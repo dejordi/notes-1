@@ -9,3 +9,6 @@
 - **Zosia** - nikogo nie kochała, latała nad ziemią, błądzi jeszcze przez rok
 - **Duch Pana** - przyczynił się do śmierci kobiety z dzieckiem, której nie wpuścił do ciepłego domu i zostawił ją na śmierć podczas mroźnej zimy, ukarał chłopa, który chciał ukraść jabłko z głodu, ukarał go tak, że zginął. *Kto nigdy nie był człowiekiem ni razu, temu człowiek nic nie pomoże*. Jest dziobany przez kruka(chłopa) i sowę(kobieta), wieczne pragnienie i niezaspokojenie głodu. Podobny do Tantala, który podał swoje dzieci jako potrawę więc cierpi karę wiecznego głodu i pragnienia
 - **Widmo** - popełnił samobójstwo z powodu nieszczęśliwej miłości
+#### Informacje:
+- Data wydania - 1832 (po upadku powstania listopadowego 1830)
+- poeta odwołuje się do procesu Filomatów i Filaretów (1823 i 1824 rok) i swego udziału w tym wydarzeniu (a zatem utwór opary na faktach)
