@@ -16,3 +16,4 @@ Adam Mickiewicz - Burza - Sonety Krymskie - środki stylistyczne:
 
 ## Lekcja
 Instrumentacja głoskowa - *"Zdarto żagle, ster prysnął"*, poprzez bliskie sąsiedztwo powtarzających się podobnych głosek nadaje wartość brzmieniową i semantyczną.
+Pole semantyczne (znaczeniowe) - ma związek z bitwą, walką, wojną np. *żołnierz*, *krawwo*.
