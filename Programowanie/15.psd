@@ -58,3 +58,37 @@ function CounterExtended(T, n)
          count := count + 1
          H[count] := T[i]
    return count
+
+15.7
+function Mode(T, n)
+   cA := 1
+   cB := 1
+   dom := T[1]
+   for i := 2 to n
+      if T[i] != T[i - 1]
+         if cB > cA
+            cA := cB
+            dom := T[i - 1]
+            cB := 0
+         else if cB = cA
+            dom := nil
+            cB := 0
+      cB := cB + 1
+   return dom
+
+15.8
+function Evaluate(T, n, x)
+   wyr := 0
+   for i := 1 to n
+      wyr := wyr + T[i] * Power(x, n - i)
+   return wyr
+
+15.9
+chuj nie chce mi sobie
+
+15.10
+procedure SortMin(T, n)
+   for i := 1 to n
+      Swap(T[i], T[MinI(T, i, n)])
+
+15.11
