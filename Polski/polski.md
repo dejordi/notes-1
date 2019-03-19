@@ -1,5 +1,5 @@
 ## Zadanie Domowe
-Adam Mickiewicz - Burza - Sonety Krymskie - środki stylistyczne:
+[Adam Mickiewicz - Burza](https://literat.ug.edu.pl/amwiersz/0035.htm) - Sonety Krymskie - środki stylistyczne:
 - onomatopeja: *"ryk wód"*
 - metafory: *"Słońce krwawo zachodzi"*
 - personifikacje: *"genijusz śmierci szedł do okrętu"*
