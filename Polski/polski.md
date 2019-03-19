@@ -12,3 +12,7 @@ Adam Mickiewicz - Burza - Sonety Krymskie - środki stylistyczne:
 * peryfraza:
 * rym: "jęki ręki"
 * hiperbola: "mokre góry"
+* anafora:
+
+## Lekcja
+Instrumentacja głoskowa - *Zdarto żagle, ster prysnął*
