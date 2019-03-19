@@ -14,7 +14,7 @@
 - hiperbola: *"mokre góry"*
 - anafora:
 
-## Lekcja
+## Powtórzenie
 - **Instrumentacja głoskowa** - *"Zdarto żagle, ster prysnął"*, poprzez bliskie sąsiedztwo powtarzających się podobnych głosek nadaje wartość brzmieniową i semantyczną.
 - **Pole semantyczne (znaczeniowe)** - ma związek z bitwą, walką, wojną np. *żołnierz*, *krwawo*.
 - **Bohater romantyczny** - samotny, zabłąkany, zagubiony, wyalienowany, wyobcowany, indywidualista.
