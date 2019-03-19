@@ -92,3 +92,14 @@ procedure SortMin(T, n)
       Swap(T[i], T[MinI(T, i, n)])
 
 15.11
+chuj też mi się nie chce
+
+15.12
+procedure InsertionSort(T, q, l)
+   for i ← q + 1 to l
+      k ← T[i]
+      j ← i − 1
+      while j > q - 1 and T[j] > k
+         T[j + 1] ← T[j]
+         j ← j − 1
+         T[j + 1] ← k
