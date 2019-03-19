@@ -4,3 +4,4 @@
 * personifikacje: "genijusz śmierci szedł do okrętu"
 * porównania: "szedł do okrętu jak żołneirz"
 * epitety: "ryk wód"
+* animizja: "wicher zawył"
