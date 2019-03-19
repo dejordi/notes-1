@@ -26,6 +26,6 @@
 - synkretyzm rodzajowy
 - dwóch bohaterów lirycznych: Mirza i Pielgrzym
 ### Jak patrzy na świat Mirza a jak Pielgrzym?
-| Mirza           | Pielgrzym           |
-| --------------- | ------------------- |
-| przewodnik      | uczestnik wycieczki |
+Mirza | Pielgrzym
+--- | ---
+przewodnik | uczestnik wycieczki
