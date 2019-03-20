@@ -4,10 +4,10 @@
 - potrzeba uznania, zdobycia prestiżu, posiadania władzy
 - chęć samorealizacji
 ## Temat: Rynek pracy
-### Czynniki wpływające na wielkość popytu i podaży na rynku pracy
-#### Popyt na pracę
-- poziom płac
-#### Podaż na pracę
+### Czynniki wpływające na popyt na rynku pracy
+- poziom płac (im większa płaca, tym mniejszy popyt na pracę)
+- zmiany wydajności płacy (zwiększenie wydajności pracy - nie potrzeba zatrudniać nowych, można zwolnić kilku)
+#### Czynniki wpływające na podaż na rynku pracy
 ## Temat: Poszukiwanie pracy
 ## Temat: Rozmowa kwalifikacyjna
 ## Temat: Zatrudnienie
