@@ -1,8 +1,12 @@
 # Dział: Praca
-### Cecha, która pcha ludzi do pracy:
+### Cechy, które pchają ludzi do pracy:
 - potrzeby finansowe
 - potrzeba uznania, zdobycia prestiżu, posiadania władzy
+- chęć samorealizacji
 ## Temat: Rynek pracy
+### Czynniki wpływające na wielkość popytu i podaży na rynku pracy
+#### Popyt na pracę
+#### Podaż na pracę
 ## Temat: Poszukiwanie pracy
 ## Temat: Rozmowa kwalifikacyjna
 ## Temat: Zatrudnienie
