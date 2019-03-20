@@ -10,6 +10,8 @@
 - koniunktura gospodarcza (jeżeli w gospodarce mamy recesję to zapotrzebowanie na pracowników jest małe)
 ### Czynniki wpływające na podaż na rynku pracy
 - poziom płac (jeżeli pracodawca oferuje duże wynagrodzenie, to wtedy dużo chętnych na stanowisko)
+- migracje (wyjazdy z Polski do UE, z Ukrainy do Polski)
+- mobilność pracowników
 ## Temat: Poszukiwanie pracy
 ## Temat: Rozmowa kwalifikacyjna
 ## Temat: Zatrudnienie
