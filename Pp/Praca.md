@@ -6,6 +6,7 @@
 ## Temat: Rynek pracy
 ### Czynniki wpływające na wielkość popytu i podaży na rynku pracy
 #### Popyt na pracę
+- poziom płac
 #### Podaż na pracę
 ## Temat: Poszukiwanie pracy
 ## Temat: Rozmowa kwalifikacyjna
