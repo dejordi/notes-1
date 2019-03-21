@@ -1,4 +1,4 @@
-### Odmiana **e** na **ie**
+### Odmiana `e` na `ie`
 polski | hiszpański
 --- | ---
 zamykać | cerrar
