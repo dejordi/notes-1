@@ -25,6 +25,15 @@ podlewać | regar
 
 ### Odmiana `o` na `ue`
 
+Osoba | Odmiana
+--- | ---
+Yo | p**ue**do
+Tú | p**ue**des
+Él | p**ue**de
+Nosotros | podemos
+Vosotros | podéis
+Ellos | p**ue**den
+
 polski | hiszpański
 --- | ---
 zgadzać się, uzgadniać | acordar
