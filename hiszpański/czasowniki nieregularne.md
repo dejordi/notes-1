@@ -9,12 +9,6 @@ Nosotros | cerramos
 Vosotros | cerráis
 Ellos | cierran
 
-Osoba | Odmiana | Osoba | Odmiana
---- | --- | --- | ---
-Yo | cierro | Nosotros | cerramos
-Tú | cierras | Vosotros | cerráis
-Él | cierra | Ellos | cierran
-
 polski | hiszpański
 --- | ---
 zamykać | cerrar
