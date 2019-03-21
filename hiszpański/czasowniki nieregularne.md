@@ -3,11 +3,11 @@
 Osoba | Odmiana
 --- | ---
 Yo | c**ie**rro
-Tú | cierras
-Él | cierra
+Tú | c**ie**rras
+Él | c**ie**rra
 Nosotros | cerramos
 Vosotros | cerráis
-Ellos | cierran
+Ellos | c**ie**rran
 
 polski | hiszpański
 --- | ---
