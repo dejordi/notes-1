@@ -7,7 +7,7 @@ zaczynać | empezar
 rozumieć | entender
 kłamać | mentir
 jeść podwieczorek | merendar
-myśleć | pensar
+myśleć | pensar | hi | s
 stracić | perder
 woleć | preferir
 chcieć, kochać | querer
