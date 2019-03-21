@@ -2,7 +2,7 @@
 
 Osoba | Odmiana
 --- | ---
-Yo | cierro
+Yo | c**ie**rro
 Tú | cierras
 Él | cierra
 Nosotros | cerramos
