@@ -25,7 +25,7 @@
     function ToDecimal(T, n, s)
         wyn := 0
         for i := 1 to n
-            if(T[i] > 9)
+            if(T[i] > '9')
                 T[i] := T[i] - ('A' - 10)
             else
                 T[i] := T[i] - '0'
