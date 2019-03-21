@@ -1,5 +1,11 @@
 ### Odmiana `e` na `ie`
 
+Singular | Plural
+--- | ---
+Yo cierro | Nosotros cerramos
+Tú cierras | Vosotros cerráis
+Él cierra | Ellos cierrans
+
 polski | hiszpański
 --- | ---
 zamykać | cerrar
