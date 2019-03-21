@@ -27,5 +27,7 @@
         for i := 1 to n
             if(T[i] > 9)
                 T[i] := T[i] - (A - 10)
+            else
+                T[i] := T[i] - '0'
             wyn := wyn * s + T[i]
         return wyn
