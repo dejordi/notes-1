@@ -1,10 +1,10 @@
 ### Odmiana `e` na `ie`
 
-Singular | Plural
---- | ---
-Yo cierro | Nosotros cerramos
-Tú cierras | Vosotros cerráis
-Él cierra | Ellos cierrans
+Persona | Singular | Persona | Plural
+--- | --- | --- | ---
+Yo | cierro | Nosotros | cerramos
+Tú | cierras | Vosotros | cerráis
+Él | cierra | Ellos | cierrans
 
 polski | hiszpański
 --- | ---
