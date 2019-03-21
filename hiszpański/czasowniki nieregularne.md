@@ -4,10 +4,10 @@ Osoba | Odmiana
 --- | ---
 Yo | cierro
 Tú | cierras
-Él | cierra
+Él/Ella/Usted | cierra
 Nosotros | cerramos
 Vosotros | cerráis
-Ellos | cierran
+Ellos/Ellas/Ustedes | cierran
 
 polski | hiszpański
 --- | ---
