@@ -1,5 +1,5 @@
-## Odmiana **e** na **ie**
-hi | hi
+### Odmiana **e** na **ie**
+polski | hiszpański
 --- | ---
 zamykać | cerrar
 zaczynać | comenzar
