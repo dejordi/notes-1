@@ -1,5 +1,5 @@
 ## Tenat: Schemat Hornera
-### W pseudokodzie iteracyjnie
+### Iteracyjnie w pseudokodzie
     read n, x
     wyn := 0
     for i := 1 to n
