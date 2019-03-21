@@ -16,10 +16,10 @@
 
 ### Zamiana z dwójkowego na dziesiętny funkcją w pseudokodzie
     function BinaryToDecimal(T, n)
-    wyn := 0
-    for i := 1 to n
-        wyn := wyn * 2 + T[i]
-    return wyn
+        wyn := 0
+        for i := 1 to n
+            wyn := wyn * 2 + T[i]
+        return wyn
 
 ### Zamiana z wybranego systemu na dziesiętny
     function ToDecimal(T, n, s)
