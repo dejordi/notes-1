@@ -1,4 +1,4 @@
-## Tenat: Schemat Hornera
+## Temat: Schemat Hornera
 ### Iteracyjne liczenie wielomianu w pseudokodzie
     read n, x
     wyn := 0
@@ -19,4 +19,11 @@
     wyn := 0
     for i := 1 to n
         wyn := wyn * 2 + T[i]
-    return wyn 
+    return wyn
+
+### Zamiana z wybranego systemu na dziesiętny
+    function ToDecimal(T, n, s)
+        wyn := 0
+        for i := 1 to n
+            wyn := wyn * s + T[i]
+        return wyn
