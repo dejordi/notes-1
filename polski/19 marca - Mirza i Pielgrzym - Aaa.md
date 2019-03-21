@@ -1,5 +1,5 @@
 ## Zadanie Domowe
-[Adam Mickiewicz - Burza](https://literat.ug.edu.pl/amwiersz/0035.htm) - Sonety Krymskie - środki stylistyczne:
+### [Adam Mickiewicz - Burza](https://literat.ug.edu.pl/amwiersz/0035.htm "Tekst") - Sonety Krymskie - środki stylistyczne:
 - onomatopeja: *"ryk wód"*
 - metafory: *"Słońce krwawo zachodzi"*
 - personifikacje: *"genijusz śmierci szedł do okrętu"*
@@ -19,7 +19,7 @@
 - **Pole semantyczne (znaczeniowe)** - ma związek z bitwą, walką, wojną np. *żołnierz*, *krwawo*.
 - **Bohater romantyczny** - samotny, zabłąkany, zagubiony, wyalienowany, wyobcowany, indywidualista.
 
-## Temat: Co znaczy "Aa!!"? - rozważania na temat ["Widoku gór ze stepów Kozłowa" A. Mickiewicza](https://literat.ug.edu.pl/amwiersz/0035.htm)
+## Temat: Co znaczy "Aa!!"? - rozważania na temat ["Widoku gór ze stepów Kozłowa" A. Mickiewicza](https://literat.ug.edu.pl/amwiersz/0035.htm "Tekst")
 ### Nowości wprowadzone przez Mickiewicza do sonetów
 - orientalizmy
 - kolokwializmy
