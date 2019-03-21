@@ -14,9 +14,6 @@ woleć | preferir
 chcieć, kochać | querer
 podlewać | regar
 
-osoba | odmiana | przykład
---- | --- | ---
-
 ### Odmiana `o` na `ue`
 
 polski | hiszpański
