@@ -1,4 +1,4 @@
 ## Odmiana **e** na **ie**
-- zamykać - cerrar
-- zaczynać - comenzar
-- zaczynać - empezar
+zamykać | cerrar
+zaczynać | comenzar
+zaczynać | empezar
