@@ -5,4 +5,4 @@
     for i := 1 to n
         read a
         wyn := wyn * x + a
-    write wyn
+    write wynddfs
