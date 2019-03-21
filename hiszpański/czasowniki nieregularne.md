@@ -53,6 +53,15 @@ wracać | volver
 
 ### Odmiana `e` na `i`
 
+Osoba | Odmiana
+--- | ---
+Yo | s**i**rvo
+Tú | s**i**rves
+Él | s**i**rve
+Nosotros | servimos
+Vosotros | servís
+Ellos | s**i**ven
+
 polski | hiszpański
 --- | ---
 prosić | pedir
@@ -61,29 +70,47 @@ serwować | servir
 
 ### Odmiana `u` na `ue`
 
+Osoba | Odmiana
+--- | ---
+Yo | j**ue**go
+Tú | j**ue**gas
+Él | j**ue**ga
+Nosotros | jugamos
+Vosotros | jugáis
+Ellos | j**ue**gan
+
 polski | hiszpański
 --- | ---
 grać | jugar
 
 ### Odmiana tylko pierwszej osoby
 
-polski | hiszpański
---- | ---
-upadać | caer
-chwytać | coger
-prowadzić | conducir
-znać | conocer
-dawać | dar
-robić | hacer
-oferować | ofrecer
-wyglądać | parecer
-podawać, umieszczać | poner
-rozpoznawać | reconocer
-wiedzieć | saber
-wychodzić | salir
-skręcać | traer
+polski | hiszpański | Odmiana
+--- | --- | ---
+upadać | caer | ca**igo**
+chwytać | coger | co**jo**
+prowadzić | conducir | condu**zco**
+znać | conocer | cono**zco**
+dawać | dar | d**oy**
+robić | hacer | ha**go**
+oferować | ofrecer | ofre**zco**
+wyglądać | parecer | pare**zco**
+podawać, umieszczać | poner | pon**go**
+rozpoznawać | reconocer | recono**zco**
+wiedzieć | saber | s**é**
+wychodzić | salir | sal**go**
+skręcać | traer | tra**igo**
 
 ### Odmiana całościowa
+
+Osoba | Odmiana
+--- | ---
+Yo | **voy**
+Tú | **vas**
+Él | **va**
+Nosotros | **vamos**
+Vosotros | **vaís**
+Ellos | **van**
 
 polski | hiszpański
 --- | ---
