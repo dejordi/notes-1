@@ -1,12 +1,10 @@
 ### Odmiana `e` na `ie`
 
-Persona | Singular
+Osoba | Odmiana
 --- | ---
 Yo | cierro
 Tú | cierras
 Él | cierra
-Persona | Plural
---- | ---
 Nosotros | cerramos
 Vosotros | cerráis
 Ellos | cierran
