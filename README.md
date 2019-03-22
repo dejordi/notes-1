@@ -1,16 +1,16 @@
 # Notatki
 ## Przedmioty:
 ### Planowane:
+- [ ] bezpieczeństwo i higiena pracy
 - [x] informatyka
-- [x] sieci komputerowe
 - [x] język polski
 - [x] język hiszpański
-- [x] programowanie
 - [x] podstawy przedsiębiorczości
+- [x] programowanie
+- [x] sieci komputerowe
 - [ ] systemy operacyjne
-- [ ] bezpieczeństwo i higiena pracy
 
 ### Nieplanowane:
 - [ ] his
-- [ ] matematyka
 - [ ] język angielski
+- [ ] matematyka
