@@ -13,7 +13,12 @@
 ### HTTP - ang. Hypertext Transfer Protocol
 - przesyłanie plików tworzących strony WWW
 - oparte na wysyłaniu danych między klientem a serwerem (odpowiadającym)
-- bezstanowy tzn. przeglądarka generalnie nie przechowuje danych, chyba, że się na to zgodzicie (cookie)
+- bezstanowy tzn. przeglądarka generalnie nie przechowuje danych, chyba, że się na to zgodzimy (cookie)
 - dzięki portom możemy od razu wiedzieć gdzie/w czym to otworzyć np. port 80 (przeglądarka)
-- zmniejszenie obciążenie serwera danymi
-- kłopotliwe ze względu korzystania ze strony, przez mechanizm cookie, który przechowuje nasze dane
+- **Cookie** - zmniejszenie obciążenie serwera danymi, ale strony przechowują nasze dane
+- Erorrs:
+    - 1XX (np. 110 Connection Timed Out)
+    - 2XX (np. 200 OK)
+    - 3XX (np. 301 Moved Permamently)
+    - 4XX (np. 404 Not Found)
+    - 5XX (np. 502 Bad Gateway)
