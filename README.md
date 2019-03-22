@@ -11,6 +11,6 @@
 - [ ] systemy operacyjne
 
 ### Nieplanowane:
-- [ ] his
-- [ ] język angielski
-- [ ] matematyka
+- [ ] ~~his~~
+- [ ] ~~język angielski~~
+- [ ] ~~matematyka~~
