@@ -4,7 +4,7 @@
 - [x] ~~informatyka~~
 - [x] ~~sieci komputerowe~~
 - [x] ~~język polski~~
-- [x] język hiszpański
+- [x] ~~język hiszpański~~
 - [x] ~~programowanie~~
 - [x] ~~podstawy przedsiębiorczości~~
 - [ ] systemy operacyjne
