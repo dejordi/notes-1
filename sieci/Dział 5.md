@@ -34,7 +34,9 @@
 #### Przeznaczenie:
 - używany do przesyłania wiadomości poczty elektronicznej, **RFC 2821**
 
-#### Przykład
+####
+
+#### Przykład:
     S: 220 smtp.example.com ESMTP Postfix
     C: HELO relay.example.com
     S: 250 smtp.example.com, I am glad to meet you
@@ -61,3 +63,5 @@
     C: QUIT
     S: 221 Bye
     {The server closes the connection}
+
+#### ESMTP
