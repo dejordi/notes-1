@@ -14,7 +14,7 @@
 #### Zalety, wady, cechy:
 - przesyłanie plików tworzących strony WWW
 - oparte na wysyłaniu danych między klientem a serwerem (odpowiadającym)
-- bezstanowy tzn. przeglądarka generalnie nie przechowuje danych, chyba, że się na to zgodzimy (cookie)
+- **bezstanowy** tzn. przeglądarka generalnie nie przechowuje danych, chyba, że się na to zgodzimy (cookie)
 - dzięki portom możemy od razu wiedzieć gdzie/w czym to otworzyć np. port 80 (przeglądarka)
 #### Cookie:
 - zmniejszenie obciążenie serwera danymi
@@ -25,3 +25,11 @@
 - 3XX (np. 301 Moved Permamently)
 - 4XX (np. 404 Not Found)
 - 5XX (np. 502 Bad Gateway)
+
+### DNS - ang. Domain Name System, port:53
+#### Przeznaczenie:
+- odwzorowywanie nazw w sieci Internet na adresy IP
+
+### SMTP - ang. Simple Mail Transfer Protocol, port: 25
+#### Przeznaczenie:
+- używany do przesyłania wiadomości poczty elektronicznej, **RFC 2821**
