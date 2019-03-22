@@ -11,7 +11,7 @@
 
 ## Protokoły warstwy aplikacji
 ### HTTP - ang. Hypertext Transfer Protocol
-#### Zalety, wady:
+#### Zalety, wady, cechy:
 - przesyłanie plików tworzących strony WWW
 - oparte na wysyłaniu danych między klientem a serwerem (odpowiadającym)
 - bezstanowy tzn. przeglądarka generalnie nie przechowuje danych, chyba, że się na to zgodzimy (cookie)
