@@ -11,12 +11,15 @@
 
 ## Protokoły warstwy aplikacji
 ### HTTP - ang. Hypertext Transfer Protocol
+#### Zalety, wady:
 - przesyłanie plików tworzących strony WWW
 - oparte na wysyłaniu danych między klientem a serwerem (odpowiadającym)
 - bezstanowy tzn. przeglądarka generalnie nie przechowuje danych, chyba, że się na to zgodzimy (cookie)
 - dzięki portom możemy od razu wiedzieć gdzie/w czym to otworzyć np. port 80 (przeglądarka)
-#### **Cookie** - zmniejszenie obciążenie serwera danymi, ale strony przechowują nasze dane
-#### **Komunikaty, Kody**:
+#### Cookie:
+- zmniejszenie obciążenie serwera danymi
+- strony przechowują nasze dane
+#### Komunikaty, Kody:
 - 1XX (np. 110 Connection Timed Out)
 - 2XX (np. 200 OK)
 - 3XX (np. 301 Moved Permamently)
