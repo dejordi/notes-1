@@ -64,4 +64,4 @@
     S: 221 Bye
     {The server closes the connection}
 
-#### ESMTP - Exended
+#### ESMTP
