@@ -1,6 +1,6 @@
 # Notatki
 ## Przedmioty:
-### Planowane:
+### Zaplanowane:
 - [ ] bezpieczeństwo i higiena pracy
 - [x] informatyka
 - [x] język polski
@@ -10,9 +10,11 @@
 - [x] sieci komputerowe
 - [ ] systemy operacyjne
 - [ ] urządzenia techniki komputerowej
-- [X] [Pracownia Systemów Operacyjnych by Patryk Niedźwiedziński](https://github.com/pniedzwiedzinski/pso/)
 
-### Nieplanowane:
+### Inne:
+- [X] [pracownia systemów operacyjnych by Patryk Niedźwiedziński](https://github.com/pniedzwiedzinski/pso/)
+
+### Niezaplanowane:
 - [ ] ~~his~~
 - [ ] ~~język angielski~~
 - [ ] ~~matematyka~~
