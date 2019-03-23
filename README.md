@@ -17,4 +17,7 @@
 ### Niezaplanowane:
 - [ ] ~~his~~
 - [ ] ~~język angielski~~
+- [ ] ~~język angielski zawoodowy~~
 - [ ] ~~matematyka~~
+- [ ] ~~pracownia sieci komputerowych~~
+- [ ] ~~pracownia urządzeń techniki komputerowej~~
