@@ -9,6 +9,7 @@
 - [x] programowanie
 - [x] sieci komputerowe
 - [ ] systemy operacyjne
+- [ ] urządzenia techniki komputerowej
 
 ### Nieplanowane:
 - [ ] ~~his~~
