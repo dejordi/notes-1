@@ -10,8 +10,7 @@
 - [x] sieci komputerowe
 - [ ] systemy operacyjne
 - [ ] urządzenia techniki komputerowej
-
-#### [Pracownia Systemów Operacyjnych by Patryk Niedźwiedziński](https://github.com/pniedzwiedzinski/pso/)
+- [X] [Pracownia Systemów Operacyjnych by Patryk Niedźwiedziński](https://github.com/pniedzwiedzinski/pso/)
 
 ### Nieplanowane:
 - [ ] ~~his~~
