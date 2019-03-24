@@ -22,6 +22,7 @@ stracić | perder
 woleć | preferir
 chcieć, kochać | querer
 podlewać | regar
+siedzieć | sentar
 
 ### Odmiana `o` na `ue`
 
@@ -131,6 +132,5 @@ być, wydarzaćsię | haber
 słyszeć | oír
 śmiać się | reír
 naśladować | seguir
-siedzieć | sentar
 mieć | tener
 przychodzić | venir
