@@ -21,9 +21,9 @@
 
 ## Temat: Co znaczy "Aa!!"? - rozważania na temat ["Widoku gór ze stepów Kozłowa" A. Mickiewicza](https://literat.ug.edu.pl/amwiersz/0035.htm "Tekst")
 ### Nowości wprowadzone przez Mickiewicza do sonetów
-- orientalizmy
-- kolokwializmy
-- synkretyzm rodzajowy
+- **orientalizmy** - uzewnętrznianie i akcentowanie kultury wschodu (fascynacja)
+- **kolokwializmy** - mowa potoczna
+- **synkretyzm rodzajowy** - połączenie elementów liryki, epiki oraz dramatu
 - dwóch bohaterów lirycznych: Mirza i Pielgrzym
 ### Jak patrzy na świat Mirza a jak Pielgrzym?
 Mirza | Pielgrzym
