@@ -34,8 +34,6 @@
 #### Przeznaczenie:
 - używany do przesyłania wiadomości poczty elektronicznej, **RFC 2821**
 
-####
-
 #### Przykład:
     S: 220 smtp.example.com ESMTP Postfix
     C: HELO relay.example.com
@@ -64,4 +62,65 @@
     S: 221 Bye
     {The server closes the connection}
 
-#### ESMTP
+#### eSMTP
+
+### POP3 - ang. Post Office Protocol, port: 110
+
+#### Zalety, wady, cechy: 
+
+- połączenie realizowane na czas, nie może być uśpione
+
+- każdy list musi być pobierany razem z załącznikami
+
+- wszystkie odbierane listy trafiają do jednej skrzynki
+
+- serwer POP3 nie potrafi sam przeszukiwać czekających w kolejce listów
+
+### IMAP - ang. Internet Message Access Protocol, port: 143
+
+#### Cechy, wady, zalety:
+
+- większe możliwości zarządzania kontem e-mail
+
+- bardziej rozbudowany niż POP3
+
+- tworzenie, usuwanie, przenoszenie bezpośrednio na serwerze (w czasie rzeczywistym, synchronizuje się 1 do 1)
+
+- pobieranie nagłówków wiadomości bez konieczności pobierania kompletnej zawartości wszystkich maili wraz z załącznikami
+
+- wiele użytkowników jednego konta pocztowego
+
+- wiadomości są na serwerze, na komputer pobierane są na początku tylko nagłówki
+
+### [POP3 vs IMAP](https://www.youtube.com/watch?v=TnDAwKu1OfQ "YouTube")
+
+### Elementy systemu pocztowego
+
+- **MUA** - ang. Mail User Agent - wysyłanie poczty 
+- **MTA** - ang. Mail Transfer Agent - odbiór poczty
+- **MDA** - ang. Mail Delivery Agent - dostarczanie poczty
+
+### Telnet - ang. Telecomuncation Network, port: 22
+
+### Przeznaczenie:
+
+- protokół używany do emulacji terminala umożliwiający komunikację ze zdalnym urządzeniem
+
+### Cechy:
+
+- tekstowo, nie ma myszki
+- login i hasło nie są szyfrowane
+
+#### Star Wars w cmd `telnet towel.blinkenlights.nl`
+
+### FTP - ang. File Transfer Protocol, port: 20, 21
+
+#### Przeznaczenie:
+
+- interaktywne przesyłanie plików pomiędzy systemami
+
+#### Cechy:
+
+- tryb aktywny i pasywny
+- tylko przez TCP
+- 1 port to port danych (20), a drugi port to port poleceń (21)
