@@ -25,9 +25,22 @@
     function ToDecimal(T, n, s)
         wyn := 0
         for i := 1 to n
-            if(T[i] > '9')
+            if(T[i] > '9')@
                 T[i] := T[i] - ('A' - 10)
             else
                 T[i] := T[i] - '0'
             wyn := wyn * s + T[i]
         return wyn
+
+## Temat: Reprezentacja danych liczbowych w komputerze
+
+### [Zadania](https://www.mathwarehouse.com/solved-problems/conversions/convert-65295-from-decimal-to-binary "65295 to binary")
+
+```mathematica
+65536 - 241 = 65295 = 1111111100001111
+65536 - 189 = 65347 = 1111111101000011
+10110011,11100101 = 128 + 32 + 16 + 2 + 1 + 1/256 + 4/256 + 32/256 + 64/256 + 128/256 = 179,89453125
+```
+
+
+
