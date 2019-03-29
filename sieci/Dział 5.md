@@ -156,3 +156,5 @@
 - ręczne - przez administratora
 - automatyczne - kolejnym wolne adresy
 - dynamiczne - administrator nadaje zakres, a każdy adres przydzielony jest na pewien czas
+
+![DHCP](img/dhcp.png)
