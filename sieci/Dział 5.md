@@ -164,7 +164,7 @@
 ### Przeznaczenie:
 
 - udostępniania systemów plików
-
+- jd
  
 
 ## SNMP - ang. Simple Network Management Protocol, port: 161
