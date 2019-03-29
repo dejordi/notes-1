@@ -158,3 +158,45 @@
 - dynamiczne - administrator nadaje zakres, a każdy adres przydzielony jest na pewien czas
 
 ![DHCP](img/dhcp.png)
+
+## NFS - ang. Network File System, port: 2049
+
+### Przeznaczenie:
+
+- udostępniania systemów plików
+
+ 
+
+## SNMP - ang. Simple Network Management Protocol, port: 161
+
+### Przeznaczenie:
+
+- konfiguracja urządzeń sieciowych i gromadzenie informacji na ich temat
+
+### Cechy:
+
+- małe obciążenie sieci
+- niewielki koszt
+
+### SMB (CIFS) - ang. Server Message Block, porty: 137, 138, 139
+
+### Przeznaczenie:
+
+- udostępnianie plików i drukarek
+
+### Cechy:
+
+- używana protokołów niższych rzędów - NetBIOS lub NetBEUI
+- **share level** - polega na zabezpieczaniu zasobu
+- **user level** - zabezpieczanie konkretnych plików przez prawa dostępu
+- **grupa robocza** - każdy komputer trzyma u siebie poufne dane, proces weryfikacji i autoryzacji przebiega lokalnie
+- **domena**
+
+![SMB](img/smb.png)
+
+## Protokoły szyfrowane - SSH (secure shell) , SFTP (SSH File Transfer Protocol), FTPS (FTP Secure), HTTPS
+
+- **SSH** - stosowany w sieciach TCP/IP w architekturze klient-serwer, protokół telnet (terminałowy)
+- **SFTP** - szyfrowany, nie wymaga obecności serwera FTP
+- **FTPS** - rozszerzenie FTP, umożliwia szyfrowanie protokołów TLS (Transport Layer Security) oraz SSL (Secure Sockets Layer)
+- **HTTPS** - tryb niejawny (automatycznie konfigurowana) i jawny (połączenie rozpoczynane jako niezaszyfrowane połączenie FTP)
