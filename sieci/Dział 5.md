@@ -122,3 +122,37 @@
 - tryb aktywny i pasywny
 - tylko przez TCP
 - 1 port to port danych (20), a drugi port to port poleceń (21)
+
+### Tryb aktywny
+
+- łączy się z dowolnym portem nieuprzywilejowanym (N > 1024) z portem poleceń serwera FTP,
+- Klient rozpoczyna nasłuchiwanie na porcie N+1 i wysyła do serwera FTP polecenie PORT N+1,
+- Serwer łączy się wówczas z określonym przez klienta portem przez własny port danych.
+
+![Active FTP](img/aktywny_ftp.png)
+
+### Tryb pasywny
+
+- oba połączenia z serwerem unikają problemu z firewall'em
+- klient otwiera dwa dowolne porty nieuprzywilejowane
+- od razu wysyła polecenie PASV
+
+## TFTP - ang. Trivial File Transfer Protocol, 
+
+### Przeznaczenie:
+
+- odczytywanie plików z komputera
+
+![TFTP](img/tftp.png)
+
+## DHCP - ang. Dynamic Host Configuration Protocol, port: 67
+
+### Przeznaczenie:
+
+- dynamiczna konfiguracja urządzeń
+
+### Techniki:
+
+- ręczne - przez administratora
+- automatyczne - kolejnym wolne adresy
+- dynamiczne - administrator nadaje zakres, a każdy adres przydzielony jest na pewien czas
