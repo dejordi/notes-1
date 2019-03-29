@@ -1,4 +1,5 @@
 # Protokoły warstwy transportowej
+- jd
 ## TCP - ang.
 - sockets
 - numer sekwencyjny
