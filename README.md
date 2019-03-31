@@ -25,4 +25,4 @@ Notatki założone w dniu 18.03 przeze mnie. Pomysł w 100% zawdzięczam [Patryk
 - [ ] ~~pracownia urządzeń techniki komputerowej~~
 
 ## Użytkownicy, którzy pomagają w notatkach:
-- [Jordan Andrzejczak]("https://github.com/dejordi" "github") - m.in stworzenie utk oraz dostarczenie pierwszej lekcji do folderu, jak i uwagi estetyczne.
+-  [Jordan Andrzejczak]("https://github.com/dejordi" "github") - m.in stworzenie utk oraz dostarczenie pierwszej lekcji do folderu, jak i uwagi estetyczne.
