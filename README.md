@@ -1,6 +1,6 @@
 # Notatki
 ## Wstęp
-Notatki założone w dniu 18.03 przeze mnie. Pomysł w 100% zawdzięczam [Patrykowi Niedźwiedzińskiemu](https://github.com/pniedzwiedzinski "github"), który stworzył notatki na pracownię systemów operacyjnych, które ułatwiły mi pracę na przedmiocie jak i przygotowały na kartkówki, czy inne prace (mam nadzieję, że zdam ten przedmiot). Notatki są wzorowane i inspirowane na [tym repozytorium](https://github.com/pniedzwiedzinski/pso/). Zachęcam do uzupełniania notatek z lekcji, na których jestem nieobecny oraz jestem otwarty na sugestie czy uwagi.
+Notatki założone w dniu 18.03 przeze mnie. Pomysł w 100% zawdzięczam [Patrykowi Niedźwiedzińskiemu](https://github.com/pniedzwiedzinski "github"), który stworzył notatki na pracownię systemów operacyjnych, które ułatwiły mi pracę na przedmiocie jak i przygotowały na kartkówki, czy inne prace (mam nadzieję, że zdam ten przedmiot). Notatki są wzorowane i inspirowane na [tym repozytorium](https://github.com/pniedzwiedzinski/pso/ "github"). Zachęcam do uzupełniania notatek z lekcji, na których jestem nieobecny oraz czekam na sugestie czy uwagi.
 ## Przedmioty:
 ### W planach:
 - [ ] bezpieczeństwo i higiena pracy
