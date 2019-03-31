@@ -23,7 +23,7 @@
 
 ### [Dziady cz. III](https://wolnelektury.pl/media/book/pdf/dziady-dziady-poema-dziady-czesc-iii.pdf "Książka - pdf")
 
-#### Streszczenie - [Mietczynski](https://www.youtube.com/watch?v=bQCFpenIaZQ "YouTube") - [lekturek.pl](https://www.youtube.com/watch?v=tJGD5zAoX2s "YouTube")
+#### Streszczenia: [Mietczynski](https://www.youtube.com/watch?v=bQCFpenIaZQ "YouTube") - [lekturek.pl](https://www.youtube.com/watch?v=tJGD5zAoX2s "YouTube")
 
 Polska od niemal pół wieku jest ofiarą okrucieństwa bezwzględnych władców, a zarazem krajem zamieszkanym przez ludzi gotowych do największych poświęceń, wytrwałych niczym pierwsi chrześcijanie.
 
