@@ -61,7 +61,16 @@ Noc dziadów | Cmentarz w pobliżu kaplicy,  noc zaduszna |kameralna, fantastycz
 
 #### Wyznaczniki dramatu romantycznego
 
-- łączy fantastykę z realizmem
-- nie przestrzega zasady 3 jedności
-- sceny zbiorowe mieszane z kameralnymi
-- luźna kompozycja
+- łączy fantastykę z realizmem,
+- nie przestrzega zasady 3 jedności,
+- sceny zbiorowe mieszane z kameralnymi,
+- luźna kompozycja, fragmentaryczna struktura (puzzle!),
+- utwór synkretyczny gatunkowo - łączy różne gatunki literackie (opera, opowiadanie, poemat, bajka, pieśni),
+- kompozycja otwarta,
+- brak porządku przyczynowo-skutkowego,
+- nieprzestrzeganie chronologii wydarzeń
+- sceny równoległe, symultaniczne!(symultana)
+- występowanie świata rzeczywistego i fantastycznego
+- nierespektowanie zasady mimesis i decorum
+- łączenie tragizmu z komizmem
+- dramat niesceniczny
