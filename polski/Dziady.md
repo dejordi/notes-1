@@ -74,3 +74,18 @@ Noc dziadów | Cmentarz w pobliżu kaplicy,  noc zaduszna |kameralna, fantastycz
 - nierespektowanie zasady mimesis i decorum
 - łączenie tragizmu z komizmem
 - dramat niesceniczny
+
+#### Stwierdzenia
+
+- Adam Mickiewicz nie wziął udział w powstaniu listopadowym. - P
+- Jednym z bohaterów III części "Dziadów" jest Żegota (czyli Ignacy Domejko). - P
+- III część "Dziadów" Mickiewicz zadedykował przyjaciołom dekabrystom, których powstanie w 1825 r. zostało krwawo stłumione przez cara. - F
+- Akcja I sceny III części "Dziadów" rozgrywa się w wileńskim klasztorze księży dominikanów przy ulicy Bazylikańskiej, przerobionym na więzienie. Jest Wielkanoc. - F
+- Wśród wywożonych na Sybir studentów, o których opowiada Jan Sobolewski, znalazł się 10-letni chłopiec. - P
+- III część "Dziadów" to dramat podzielony na akty i sceny. - F
+- Scena I z III części ma charakter realistyczny, natomiast scena V - wizyjny. - P
+- III cześć "Dziadów" powstała w Kownie w 1829 r. - F
+- Czas akcji w dramacie to rok 1832. - F
+
+## T: Czy tylko reportaż ze śledztwa? Interpretujemy "Scenę więzienną" z III części "Dziadów".
+

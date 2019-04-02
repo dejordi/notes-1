@@ -1,4 +1,4 @@
-# Protokoły warstwy transportowej
+# T: Protokoły warstwy transportowej
 ## TCP - ang.
 - sockets
 - numer sekwencyjny
@@ -8,7 +8,7 @@
 - szybkie wysyłanie danych
 - nie podejmuje żadnych działań jak pakiet nie dotrze, nie rząda retransmisji
 
-# Protokoły warstwy aplikacji
+# T: Protokoły warstwy aplikacji
 ## HTTP - ang. Hypertext Transfer Protocol, port: 80
 ### Zalety, wady, cechy:
 - przesyłanie plików tworzących strony WWW
@@ -199,4 +199,54 @@
 - **SSH** - stosowany w sieciach TCP/IP w architekturze klient-serwer, protokół telnet (terminałowy)
 - **SFTP** - szyfrowany, nie wymaga obecności serwera FTP
 - **FTPS** - rozszerzenie FTP, umożliwia szyfrowanie protokołów TLS (Transport Layer Security) oraz SSL (Secure Sockets Layer)
-- **HTTPS** - tryb niejawny (automatycznie konfigurowana) i jawny (połączenie rozpoczynane jako niezaszyfrowane połączenie FTP)
+- **HTTPS** - tryb niejawny (automatycznie konfigurowana) i jawny (połączenie rozpoczynane jako niezaszyfrowane połączenie FTP), port: 443, wykorzystuje protokół SSL, również TLS
+
+## DNS - ang. Domain Name System, port: 53
+
+### Przeznaczenie:
+
+- odwzorowywanie nazw w sieci na adresy IP
+
+### 2 instytucje nadzorują:
+
+- **IANA** - ang. Intenret Assigned Numbers Authority
+- **ICANN** - ang. Internet Corporation for Assigned Names and Numbers
+- w Polsce - **NASK** - Naukowa i Akademicka Sieć Internetowa
+
+# T: Inne zestawy protokołów sieciowych
+
+## IPX/SPX
+
+- Warstwy OSI
+- Model IPX/SPX (Novell)
+- **IPX** - Internet Packet Exchange
+- **SPX** - Sequental Packet Exchange
+
+## NetBEUI
+
+### Cechy:
+
+- mały, mało bezpieczny
+- małe obciążenie
+- nie wymaga wprowadzania żadnych informacji podczas konfiguracji
+- stacje wyszukuje się w postaci komunikatów rozgłoszeniowych
+
+## AppleTalk
+
+### Przeznaczenie:
+
+- zaprojektowany aby zapewnić kompatybilność ze sobą komputerów apple z windowsem
+
+## ATM
+
+### Cechy:
+
+- nietypowość polega na tym, że nie ogranicza się tylko do 2 najniższych warstw OSI, ale warstwa ma 3 wymiary
+
+## IrDA - ang. Iterate data assication
+
+### Cechy:
+
+- podczerwień
+- SIR - slow, MIR - medium, FIR - fast, 4mb/s, VFIR - very fast, 16mb/s
+- silnie wypierany przez Bluetooth
