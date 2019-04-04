@@ -13,6 +13,30 @@
 - migracje (wyjazdy z Polski do UE, z Ukrainy do Polski)
 - mobilność pracowników
 ## Temat: Poszukiwanie pracy
+
+### Aktywne poszukiwanie pracy:
+
+- rozpoznanie rynku pracy,
+- realne określenie własnych predyspozycji i możliwości zawodowych,
+- poszukiwanie potencjalnych pracodawców,
+- nawiązanie kontaktu z pracodawcami i odpowiednie zaprezentowanie siebie.
+
+### Metody poszukiwania pracy:
+
+- internet, umieszczanie własnych ogłoszeń lub odpowiedź na ogłoszenia dostępne w internecie
+  - zalety: szybkość,
+  - wady: nie zawsze mamy pewność 
+- agencja pracy (instytucja prywatna),
+- urząd pracy (potocznie: pośredniak),
+- radio i telewizja,
+- łowcy głów
+
+### Etapy tworzenia CV
+
+- gromadzenie faktów
+- selekcja faktów
+- wykonanie szkicu
+
 ## Temat: Rozmowa kwalifikacyjna
 ## Temat: Zatrudnienie
 ## Temat: Bezrobocie

@@ -1,5 +1,8 @@
 # T: ¿Has estado alguna vez en España?
 
+- ir - ado
+- ir, er - ido
+
 | Osoba    | Odmiana |
 | -------- | ------- |
 | Yo       | he      |
@@ -30,3 +33,12 @@
 - Si, he comido muchas pizzas..
 ```
 
+# T: Practicamos el pretérito perfecto.
+
+- muchas veces
+- varias veces
+- tres veces
+- un par de veces (= dos veces)
+- alguna vez
+- una vez
+- nunca
